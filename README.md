@@ -1,0 +1,1 @@
+# QS-university-ranking-scraper
