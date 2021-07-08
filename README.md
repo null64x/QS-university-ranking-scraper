@@ -10,7 +10,7 @@
 
 # Future plans: 
 - Fix CSV issue, automatically separate data into columns
-- Add each university's topuniversity.com website to the list of collected data
+- Add each university's topuniversity.com webpage to the list of collected data
 
 # How to use on different year rankings:
 - QS global university ranking page is loaded through Ajax. So to extract the url for other years. 
